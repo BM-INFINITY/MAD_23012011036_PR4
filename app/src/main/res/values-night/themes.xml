@@ -9,7 +9,8 @@
 
         <item name = "colorSecondary">@color/light_green</item>
         <item name = "colorSecondaryVariant">@color/dark_green</item>
-        <item name = "colorOnPSecondary">@color/white</item>
+        <item name="colorOnSecondary">@color/black</item>
+
 
     </style>
 </resources>
